@@ -5,7 +5,7 @@ This is a RESTful API built with Spring Boot to manage a quiz application. It su
 ### Running the Application
 - Clone the repository:
 ```
-git clone https://github.com/yourusername/quiz-api.git
+git clone https://github.com/rishabh-j-23/quiz-api.git
 ```
 - Navigate to the project directory
 ```
